@@ -38,7 +38,8 @@ This will start the program, and you will be prompted to enter the initial balan
 Here is an example of how to use the system:
 
 1. **Running the Script:**
-    ``bash
+   
+   ``bash
     python customer_banking.py
 
 2. **User Input:**
@@ -46,19 +47,21 @@ Here is an example of how to use the system:
 
 Welcome to Customer Banking
 
-<span style="color:lightblue">Enter the initial balance for the Savings Account:</span> 1000
+Enter the initial balance for the Savings Account: 1000
 
-<span style="color:green"> Enter the annual interest rate (APR) for the Savings Account:</span> 5
+Enter the annual interest rate (APR) for the Savings Account: 5
 
-<span style="color:blue">Enter the number of months the savings account will accrue interest:</span> 12
+Enter the number of months the savings account will accrue interest: 12
 
-Savings Account Updated Balance: 1051.16, Interest Earned: 51.16
+Savings Account Updated Balance: 1050.00, Interest Earned: 50.00
 
 Enter the initial balance for the CD Account: 2000
+
 Enter the annual interest rate (APR) for the CD Account: 3
+
 Enter the number of months the CD account will accrue interest: 12
 
-CD Account Updated Balance: 2060.30, Interest Earned: 60.30
+CD Account Updated Balance: 2060, Interest Earned: 60
 </pre>
 
 
